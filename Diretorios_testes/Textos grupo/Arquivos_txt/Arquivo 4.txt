@@ -1,0 +1,7 @@
+Nome: Laura 
+Médico: Dr. Carlos
+Data do exame: 20/03/2010
+Idade do Paciente: 28 anos
+Exame realizado: Ressonância Magnética 
+Método: Exame realizado nas diversas sequências 
+Análise: Estrutura óssea com morfologia e sinais normais.

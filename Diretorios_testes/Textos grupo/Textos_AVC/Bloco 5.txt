@@ -1,0 +1,4 @@
+Este módulo fornece uma maneira simples de usar funcionalidades que são dependentes de sistema operacional. Se você quiser 
+ler ou escrever um arquivo, veja open(); se o que quer é manipular estruturas de diretórios, veja o módulo os.path; e se 
+quiser ler todas as linhas, de todos os arquivos, na linha de comando, veja o módulo fileinput. Para criar arquivos e 
+diretórios temporários, veja o módulo tempfile; e, para manipulação em alto nível de arquivos e diretórios, veja o módulo shutil.

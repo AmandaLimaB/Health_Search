@@ -1,0 +1,10 @@
+Os circuitos retificadores são circuitos que convertem tensão alternada (CA) em tensão contínua (CC), por isso são chamados
+de conversores CA-CC. Dessa forma, a estrutura dos circuitos retificadores é baseada em chaveamento, no corte e condução de 
+tensão. Existem diversos tipos de dispositivos que funcionam como chave, os utilizados nos conversores CA – CC são os diodos, 
+os tiristores e os transistores. Assim, quando o retificador é construído com diodos, dizemos que o retificado é não controlado 
+e quando é construído com tiristores ou transistores, controlado. Isso ocorre por causa das características de funcionamento 
+desses dispositivos, o diodo não permite controle sobre a sua condução, apenas a polaridade da tensão define se ele conduz ou 
+não, já o tiristor pode ter a sua condução controlada por meio dos pulsos no gatilho e o transistor a partir da corrente de base. 
+Os circuitos retificadores podem ser monofásicos ou trifásicos, dependendo da aplicação, e podem ainda ser classificados quanto 
+ao tipo de retificação, como meia onda ou onda completa.
+

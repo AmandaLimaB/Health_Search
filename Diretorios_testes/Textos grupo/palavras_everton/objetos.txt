@@ -1,0 +1,6 @@
+faca Faca
+garfo
+copo
+panela
+
+

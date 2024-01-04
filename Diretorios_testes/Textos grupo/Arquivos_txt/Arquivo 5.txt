@@ -1,0 +1,10 @@
+Nome: Maria 
+Situação: Dengue 
+Data: 10/10/2012
+Nascimento: 25/02/1980
+PRONTUÁRIO DO PACIENTE
+Número do prontuário: 9210
+Escolaridade: Ensino Médio completo
+
+
+

@@ -1,0 +1,7 @@
+Nome: João 
+Cpf: 12345678
+Diagnóstico: Dengue 
+Idade: 70 anos
+Estado civil: Casado
+Sexo: Masculino
+Procedimento: Avaliação psicológica

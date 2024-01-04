@@ -1,0 +1,6 @@
+Nome: Ana
+Idade: 19 anos
+Alergias: Rinite Alérgica
+Data: 10/04/2018
+Altura: 1.82
+Peso: 60

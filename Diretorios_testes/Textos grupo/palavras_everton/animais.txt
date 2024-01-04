@@ -1,0 +1,4 @@
+cachorro Cachorro cahorro
+gato 
+papagaio
+maçã

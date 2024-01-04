@@ -1,0 +1,3 @@
+Um índice invertido é uma estrutura de dados de índice que armazena um mapeamento de conteúdo, como palavras ou números, 
+para suas localizações em um documento ou conjunto de documentos. Em palavras simples, é um hashmap como estrutura de dados 
+que o direciona de uma palavra para um documento ou página da web.

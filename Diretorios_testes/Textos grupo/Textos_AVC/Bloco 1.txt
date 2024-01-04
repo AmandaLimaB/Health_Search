@@ -1,0 +1,5 @@
+Até agora, os dados que temos usado nos programas deste livro ou estão inseridos diretamente no código ou são digitados 
+pelo usuário a medida que são lidos. Na vida real dados estão em um arquivo. Por exemplo as imagens na unidade de processamento 
+de imagens residem em arquivos que estão no disco rígido (hard drive) do seu computador. Página na Internet, documentos, 
+músicas são outros exemplos de dados que vivem em arquivos. Neste capítulo apresentaremos de maneira sucinta os conceitos 
+de Python necessários para usar em programas dados que estão em arquivos.
